@@ -94,7 +94,7 @@ yarn run lint
 
 - **用于生产环境，请使用 `release` 版本代码，使用 master 代码出现的任何问题需要你自行解决**
 
-## 浏览器兼容
+## 浏览器兼容  
 
 Modern browsers and IE10.
 
